@@ -1,0 +1,24 @@
+{
+    "packageDirectories": [
+        {
+            "path": "src",
+            "default": true,
+            "dependencies": [
+                {
+                    "package": "Reflections",
+                    "versionNumber": "0.1.0.LATEST"
+                }
+            ],
+            "package": "Inversions",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "Reflections": "0Ho1n0000008OJ3CAM",
+        "Inversions": "0Ho1n0000008OJ8CAM"
+    }
+}
